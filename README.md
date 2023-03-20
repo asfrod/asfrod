@@ -21,7 +21,6 @@
 ---
 ### :fire: My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoctaviopb)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aoctaviopb&mode=weekly)](https://git.io/streak-stats)
 
